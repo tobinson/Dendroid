@@ -1,0 +1,4 @@
+#Mon May 28 16:30:42 ART 2018
+base.0=C\:\\Users\\GERMAN\\StudioProjects\\DENDORID APKK\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

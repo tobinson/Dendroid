@@ -1,0 +1,23 @@
+Tenemos que editar con algún editor de texto, los siguientes archivos:
+Modifica el subdominio en los siguientes archivos: (Remplazar [localhost] por la url de tu servidor)
+
+applysettings.php
+blockbot.php
+clearawaiting.php
+clearmessages.php
+deletebot.php
+deletefile.php
+deletepics.php
+functions.php
+table.php
+
+Ademas en el archivo reg.php cambiaremos el valor de $allowebDomains respetando las www.
+
+Modifica la contraseña en los siguientes archivos: (Remplazar [AQUIVATUCONTRASEÑA] por tu contraseña)
+
+get.php
+get-functions.php
+new-upload.php
+upload-pictures.php
+
+PD: RECUERDA RESPETAR LAS COMILLAS "" O '', si no las respetas el sistema tendra fallas, incluso no funcionaria.
